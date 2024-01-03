@@ -1,6 +1,9 @@
 Welcome to Bus Ticket Booking System
+
 Created by Aayush Beura
+
 ----------------------------------------------------------------------------------------
+
 STEP 1 : Install MySQL and setup in the host computer.  
 STEP 2 : Remember the Password used in Step 1. 
 
@@ -14,4 +17,6 @@ Link -  https://github.com/AayushBeura/TicketSystem/commit/a70ceeb83b41e9414da0d
 
 STEP 5 : Commit necessary changes needed in the main.py file and you're good to go !
 
+
 ----------------------------------------------------------------------------------------
+
